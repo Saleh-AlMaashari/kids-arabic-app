@@ -51,7 +51,7 @@ const ParentsPage: React.FC = () => {
             <Star className="text-yellow-500 mx-auto mb-4" size={48} />
             <h3 className="text-xl font-bold mb-3 font-arabic">نظام المكافآت</h3>
             <p className="text-gray-600 text-sm">
-              نجوم ومكافآت لتحفيز الطفل على التعلمالمستمر
+              نجوم ومكافآت لتحفيز الطفل على التعلم المستمر
             </p>
           </div>
           
